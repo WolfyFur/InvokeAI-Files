@@ -1,0 +1,7 @@
+openjourney-4.0:
+   description: An SD 1.5 model fine tuned on Midjourney; prompt with "mdjrny-v4 style" (2.13 GB)
+   format: diffusers
+   repo_id: prompthero/openjourney
+   vae:
+     repo_id: stabilityai/sd-vae-ft-mse
+   recommended: False
